@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SBI AB - Robotdammsugare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .product {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .product h2 {
+            margin-top: 0;
+        }
+        .product p {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Är du trött på att städa efter dig? Vi har den perfekta lösningen för dig!</h1>
+        <p>Här på SBI AB har vi utvecklat två olika robotdammsugare som gör städningen enkel och bekväm för dig.</p>
+        
+        <div class="product">
+            <h2>Robo Army Slarmy</h2>
+            <p>Robo Army Slarmy är utrustad med ett AI-program som kan uppdateras via din telefon. Allt du behöver är vår app Suck Armé Editor.</p>
+            <p>Den har också en inbyggd mopp som skrubbar upp efter dammsugningen. För att fylla på med mer vätska, skruva upp locket på toppen och häll i vatten.</p>
+        </div>
+        
+        <div class="product">
+            <h2>Gry Dammsugare</h2>
+            <p>Vår Gry dammsugare kan städa både under- och övervåningen utan att du behöver flytta den mellan våningarna. Den har ett flygläge och en inbyggd AI som undviker möbler och låter dig välja vilka rum som ska städas via vår app.</p>
+            <p>För att Gry dammsugare ska fungera behöver du bara koppla in vår laddningsplatta i ett eluttag och mappa ut ditt hus i vår app.</p>
+        </div>
+
+        <h2>Viktigt att veta</h2>
+        <p>Vid köp av våra produkter gäller att vi inte är skyldiga till återbetalning om produkten går sönder.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 SBI AB</p>
+    </footer>
+</body>
+</html>
